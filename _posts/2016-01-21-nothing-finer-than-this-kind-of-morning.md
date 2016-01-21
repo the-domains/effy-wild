@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:2b5534bc-7e16-4e93-a64e-9fdf31174cdc'
+inLanguage: null
+starred: true
+keywords: []
 description: Nothing finer than this kind of morning.
+datePublished: '2016-01-21T14:45:23.030Z'
+dateModified: '2016-01-21T14:45:20.387Z'
 author: []
-datePublished: '2016-01-21T14:42:05.549Z'
-publisher:
-  domain: ''
-  name: ''
 title: 'Nothing finer than this kind of morning. '
-dateModified: '2016-01-21T14:35:23.136Z'
 sourcePath: _posts/2016-01-21-nothing-finer-than-this-kind-of-morning.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: nothing-finer-than-this-kind-of-morning/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
