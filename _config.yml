@@ -1,0 +1,28 @@
+name: Effy Wild
+favicon: null
+layout_spectrum: 0.6349628842435777
+typography_spectrum: 0.5104975064750761
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2290228591300547
+  lightness: 0.00954573368653655
+  saturation: 0.32877163495868444
+  rhythmicContrast: 0.5413934108801186
+purpose: []
